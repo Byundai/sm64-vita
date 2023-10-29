@@ -1,0 +1,3 @@
+[submodule "sm64ex-coop"]
+	path = sm64ex-coop
+	url = https://github.com/Byundai/sm64ex-coop.git
